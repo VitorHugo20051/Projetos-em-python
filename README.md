@@ -6,7 +6,7 @@ The intersections of the paths in a territory may or may not be occupied by moun
 
 2 - Go
 
-The game Go is an ancient strategic board game originating in China. Here is a brief summary in English of the game Go:
+The game Go is an ancient strategic board game originating in China:
    - Go is a two-player strategy game.
    - The objective of the game is to control more territory than your opponent.
    - The Go board is a grid of 19x19 lines, where players place stones at intersections.
